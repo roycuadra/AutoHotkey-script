@@ -1,12 +1,5 @@
 # Simple AutoHotkey Script
 
-This is a simple AutoHotkey script that allows you to open Google Chrome and Brave browsers with a hotkey.
-
-## Prerequisites
-
-1. [AutoHotkey](https://www.autohotkey.com/) installed on your system.
-2. Google Chrome and Brave browsers installed on your system.
-
 ## How to Use
 
 1. **Download and Install AutoHotkey**
